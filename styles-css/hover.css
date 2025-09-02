@@ -1,0 +1,15 @@
+header img:hover {
+    cursor: zoom-in;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section:hover {
+     border-right: 8px solid #782221;
+}
+
+footer a:hover {
+    opacity: 0.7;
+}
