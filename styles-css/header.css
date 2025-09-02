@@ -1,0 +1,9 @@
+header a img {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 70px;
+    margin-top: 40px;
+    box-shadow: 0 0 14px 8px #00000087;
+}
