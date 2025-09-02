@@ -1,0 +1,14 @@
+aside {
+    width: 300px;
+    padding-right: 40px;
+}
+
+aside h3 {
+    padding: 5px 20px;
+}
+
+aside p {
+    margin-left: 20px;
+    text-align: justify;
+    text-indent: 50px;
+}

@@ -12,3 +12,59 @@
     font-family: 'Raleway-italic';
     src: url(../fonts/Raleway-Italic.woff);
 }
+
+/* DISPLAY */
+
+body {
+    width: 1160px;
+    margin: auto;
+    max-height: 100vh;
+}
+
+#container {
+    display: flex;
+}
+
+main {
+    flex: 1;
+    padding-left: 40px;
+    padding-right: 20px;
+    border-right: 3px solid black;
+}
+
+ul {
+    margin-right: 8px;
+}
+
+/* FONT */
+
+h1, h2, h3, h4 {
+    font-family: 'Lato';
+}
+
+a, p, ul, small, time {
+    font-family: 'Raleway-regular';
+}
+
+/* COLORS */
+
+main h3 {
+    border-left: 8px solid #782221;
+}
+
+h3 {
+    background-color: #dbc2a4;
+    padding: 5px 20px;
+    
+}
+
+footer, aside, header {
+    background-color: #782221;
+}
+
+aside p,
+aside ul,
+small,
+h1, h2 {
+    color: white;
+}
